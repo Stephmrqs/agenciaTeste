@@ -1,0 +1,17 @@
+.topoVoo{
+  background: url('../public/imagens/imagens-aviao/img-meio-aviao.jpg') no-repeat fixed;
+  background-position: center center;    
+  background-size: cover;    
+}
+/* seçao de posição dos cards */
+.positionCard{
+  display: flex;
+  flex-wrap: wrap;    
+}
+
+.fundoPosSlideVoo{
+  background: url('../public/imagens/imagens-aviao/img-meio-aviao.jpg') no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
